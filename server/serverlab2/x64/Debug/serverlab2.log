@@ -1,0 +1,9 @@
+﻿  serverlab2.cpp
+C:\Users\User\source\repos\serverlab2\serverlab2\serverlab2.cpp(59,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\serverlab2\serverlab2\serverlab2.cpp(33,30): warning C4101: s2: неиспользованная локальная переменная
+C:\Users\User\source\repos\serverlab2\serverlab2\serverlab2.cpp(33,12): warning C4101: k: неиспользованная локальная переменная
+C:\Users\User\source\repos\serverlab2\serverlab2\serverlab2.cpp(33,22): warning C4101: v2: неиспользованная локальная переменная
+C:\Users\User\source\repos\serverlab2\serverlab2\serverlab2.cpp(33,26): warning C4101: s1: неиспользованная локальная переменная
+C:\Users\User\source\repos\serverlab2\serverlab2\serverlab2.cpp(33,9): warning C4101: i: неиспользованная локальная переменная
+C:\Users\User\source\repos\serverlab2\serverlab2\serverlab2.cpp(33,18): warning C4101: v1: неиспользованная локальная переменная
+  serverlab2.vcxproj -> C:\Users\User\source\repos\serverlab2\x64\Debug\serverlab2.exe
